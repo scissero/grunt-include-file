@@ -35,9 +35,6 @@
 		"grunt": "~0.4.1",
 		"grunt-version-git": "~0.1.5"
 	},
-	"peerDependencies": {
-		"grunt": "~0.4.1"
-	},
 	"keywords": [
 		"gruntplugin"
 	]
